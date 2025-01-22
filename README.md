@@ -16,7 +16,8 @@
 ### **DevOps & Cloud**
 - **AWS:** EKS, S3, RDS, API Gateway  
 - **Kubernetes:** KEDA, ArgoCD, Helm  
-- **CI/CD:** GitHub Actions, Terraform  
+- **CI/CD:** GitHub Actions, Jenkins
+- **IaC** Terraform
 
 ### **Frontend**
 - **Languages:** JavaScript, TypeScript  
